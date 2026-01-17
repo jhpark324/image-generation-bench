@@ -9,11 +9,8 @@ layered hair parted naturally in the middle,
 softly framing his face in feathered sections,
 small deep-set eyes, a soft natural nose, and a rounded jawline.
 He wears wired earphones and a plain white suit shirts is barely visible.
-Visual Style: extreme low resolution 40p, heavy pixelation,
-motion blur, 
-compression artifacts, 
-color banding. 
-The lighting is uneven and low from an indoor source, 
-with a background banner slightly overexposed. 
-No beauty filters, showing realistic skin pores and texture.
+Visual Style: high resolution, sharp details, crystal clear image quality.
+Professional soft lighting from an indoor source,
+with a slightly blurred background banner.
+Natural skin texture with realistic pores, no heavy filters.
 """
