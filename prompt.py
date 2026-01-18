@@ -1,16 +1,7 @@
 PROMPT = """
-A young male idol on a smartphone vertical video-call during a casual fansign. 
-He is looking down towards the bottom-left of his screen, 
-a faint smile on his face as he reads a fan's comment,
-his eyes are completely averted from the camera.
-The shot is an extreme close-up of his face,
-chin slightly cropped. He has messy long blonde 
-layered hair parted naturally in the middle,
-softly framing his face in feathered sections,
-small deep-set eyes, a soft natural nose, and a rounded jawline.
-He wears wired earphones and a plain white suit shirts is barely visible.
-Visual Style: high resolution, sharp details, crystal clear image quality.
-Professional soft lighting from an indoor source,
-with a slightly blurred background banner.
-Natural skin texture with realistic pores, no heavy filters.
+레퍼런스 이미지를 기반으로, 인물의 얼굴(눈/코/입/얼굴형/피부톤/헤어라인/앞머리)과 전체 인상은 100% 동일하게 유지하고 절대 변형하지 마세요. 표정도 최대한 비슷하게 유지하세요.
+장면만 “영상통화 셀카캠 스크린샷”처럼 바꿔주세요: 유선 이어폰을 양쪽 귀에 꽂고, 상반신 클로즈업(머리~어깨), 정면 웹캠 각도, 실내 자연광, 담백한 배경.
+화질은 일부러 조금 안 좋게: 720p 느낌, 약한 블러/노이즈, 낮은 비트레이트, JPEG 압축 아티팩트, 살짝 흐린 선명도.
+미용 필터/과한 보정/스튜디오 조명/과도한 고해상도/피부 매끈 보정 금지.
+텍스트, 로고, 워터마크, UI 글자(읽을 수 있는 글자) 없이 “영상통화 중 캡처한 사진” 같은 현실적인 느낌으로 출력하세요.
 """
